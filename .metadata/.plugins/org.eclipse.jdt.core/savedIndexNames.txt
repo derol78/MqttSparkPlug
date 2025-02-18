@@ -1,16 +1,4 @@
 INDEX VERSION 1.134+C:\Users\derol\Documents\GitHub\MqttSparkPlug\.metadata\.plugins\org.eclipse.jdt.core
+3089300542.index
 1167275426.index
-934334715.index
-254888071.index
-1731432907.index
-4005325411.index
-1898668690.index
-1070838543.index
-2408479978.index
-3869793457.index
-3858073146.index
-4278507425.index
 1865797976.index
-70441095.index
-1018792094.index
-4253443799.index

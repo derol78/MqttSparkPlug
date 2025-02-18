@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.eclipse.tahu.SparkplugException"/>
+    <fullyQualifiedTypeName name="org.eclipse.tahu.SparkplugInvalidTypeException"/>
+    <fullyQualifiedTypeName name="org.eclipse.tahu.message.model.SparkplugBPayload"/>
+    <fullyQualifiedTypeName name="org.eclipse.tahu.message.SparkplugBPayloadDecoder"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
